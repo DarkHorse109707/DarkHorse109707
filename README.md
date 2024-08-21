@@ -1,42 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=7%2B+years+of+hands-on+experience+in+programming;Blockchain+developer;Web+and+mobile+app+developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
-<h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+# Hi 👋, I'm a Software Engineer focused on Generative AI, VoIP, Chatbot, Video Streaming, Forex Trading, Blockchain, Python, Full-Stack, and DevOps.
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/yii-2-1175059.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-21-1175088.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/xcode-3521822-2945239.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
-  </tr>
-</table>
+Welcome to my GitHub profile! I'm a full-stack developer with a strong focus on AI development and real-time communications. Below are some of the areas I specialize in and the technologies I work with.
+
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8bf100e68c061350ed91caa7e3988f9ef0c3580ba158e093e3c6f134814069c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41492d446576656c6f706d656e742d626c7565">
+    <img src="https://camo.githubusercontent.com/8bf100e68c061350ed91caa7e3988f9ef0c3580ba158e093e3c6f134814069c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41492d446576656c6f706d656e742d626c7565" alt="AI Development" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6d8ee974363fea5fc3903545d7469fcfa874fb7ed3745764270764debe4d39ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46756c6c2d2d537461636b2d446576656c6f7065722d677265656e">
+    <img src="https://camo.githubusercontent.com/6d8ee974363fea5fc3903545d7469fcfa874fb7ed3745764270764debe4d39ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46756c6c2d2d537461636b2d446576656c6f7065722d677265656e" alt="Full-Stack Developer" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cf5ca9f591b8f8d3773ce62cffb5c14a3eb60677f1417f77b9e0de1068056a4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265616c2d2d54696d652d436f6d6d756e69636174696f6e732d79656c6c6f77">
+    <img src="https://camo.githubusercontent.com/cf5ca9f591b8f8d3773ce62cffb5c14a3eb60677f1417f77b9e0de1068056a4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265616c2d2d54696d652d436f6d6d756e69636174696f6e732d79656c6c6f77" alt="Real-Time Communications" style="max-width: 100%;">
+  </a>
+</p>
+
+## 🚀 My Skills
+
+🏆 Generative AI (Video, Image, Audio)  
+🏆 OpenAI/Claude3.5 Sonnet/ChatGPT/Chatbots/Chrome Extension/Automation  
+🏆 VoIP/FreeSWITCH/Twilio  
+🏆 RAG/LLM/Langchain  
+🏆 Deepgram/Whisper/Watson/ElevenLabs  
+🏆 DevOps (CI/CD) | Cloud (Amazon/Azure/GCP)  
+🏆 React/Next.js/Tailwind CSS/TypeScript/JavaScript  
+🏆 Python/Django/Flask/FastAPI | Node/Express.js/Nuxt.js | Golang | Ruby on Rails | PHP/Laravel  
+🏆 Supabase/Firebase | MongoDB | MySQL | PostgreSQL  
+🏆 RESTful API | GraphQL  
+🏆 Web Scraping | Data Scraping  
+🏆 Trading Bot | Pine Script  
+🏆 Video Streaming | WebRTC 
 
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
