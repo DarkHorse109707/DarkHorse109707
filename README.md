@@ -52,19 +52,6 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong focus on 
   <br>
 </div>
 <!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
-  
-  **Languages, Tools and Interest:**   
-
- - Ethereum / Solana / BSC / Polygon / Cardano / Moonbeam / Bitcoin
- - Smart Contract Development / Testing / Auditing
- - ERC 20 / ERC 777 / ERC 721 / ERC 1155 / EIP 2612
- - Solidity & Rust
- - Metaplex (NFT marketplace)
- - Hardhat / Truffle / Openzeppelin
- - Anchor / Cargo
- - Web3.js / Ether.js / Solana-web3
- - Next.js / React.js / Vue.js
- - Source Control
 
 <h2 align="center">👯Let's make "Success" Together!👯</h2><br>
 🤔 The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
