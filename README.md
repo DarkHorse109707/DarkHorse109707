@@ -1,4 +1,4 @@
-# Hello there, I'm a Full Stack Software Engineer with morden Web Technologies and focused on VoIP, Generative AI, VoIP, Chatbot, Video Streaming, Forex Trading, Blockchain, Python, and DevOps.
+# Hello there, I'm a Full Stack Software Engineer with morden Web Technologies and focused on VoIP, Generative AI, LLM, Video Streaming, Forex Trading, Blockchain, Python, and DevOps.
 
 Welcome to my GitHub profile! I'm a VoIP Engineer with a strong focus on AI development and real-time communications.
 
