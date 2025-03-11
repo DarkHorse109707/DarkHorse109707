@@ -1,23 +1,50 @@
-# 🚀 Hi there, I'm [Your Name]! 👋
+# 👋 Welcome to My GitHub Profile!
 
-I'm a **Full Stack Software Engineer** with expertise in **modern web and mobile technologies**, passionate about solving complex problems with innovative solutions. My focus areas include **Generative AI**, **WebRTC**, **VoIP**, and **Blockchain**! 🤖✨
-
----
-
-## 🛠️ My Key Skills
-- **Backend Development:** Java, Spring Boot, C#, .NET Core, Node.js, Python, Golang
-- **Frontend Development:** React, Angular, Vue.js, Tailwind CSS, MaterialUI
-- **DevOps & Cloud:** Azure DevOps, AWS, Docker, Kubernetes, CI/CD pipelines
-- **Real-Time Solutions:** WebRTC, API Streaming, WebSockets
-- **Blockchain Development:** Ethereum, Smart Contracts, Solidity, Web3.js
-- **API Integrations:** Shopify, Amazon SP API, Stripe, PayPal, Salesforce, and more
+🚀 I am a **Full Stack Software Engineer** with advanced expertise in **WebRTC**, **VoIP**, **Generative AI**, and **Mobile Development**. My passion lies in solving real-world problems through cutting-edge technologies, crafting scalable solutions, and building next-gen SaaS platforms.
 
 ---
 
-## 🌟 What I’m Working On
-- 🔭 Building **Generative AI tools** to enhance content creation workflows.
-- 🌱 Exploring advanced **LLMs (Large Language Models)** and **NLP** solutions.
-- 🤝 Open to collaborations on cutting-edge **WebRTC** or **Blockchain** projects.
+## 🌟 Highlights of My Expertise
+
+### 💡 **Specialized Skills**
+- **Real-Time Communication:**  
+  WebRTC, LiveKit, VoIP (FreeSWITCH, SIP.js), Video Streaming, Tiledesk  
+- **Generative AI & NLP:**  
+  ChatGPT, OpenAI API, LLMs (Large Language Models), Custom AI-based solutions  
+- **Mobile Development:**  
+  Flutter, React Native, Progressive Web Apps (PWAs)  
+- **Blockchain & Decentralized Tech:**  
+  Ethereum, Solidity, Web3.js, Smart Contracts  
+- **Cloud & DevOps:**  
+  Azure DevOps, AWS, CI/CD Pipelines, Kubernetes, Docker  
+
+---
+
+## 🔥 Featured Projects
+Here are some of the most exciting projects I've worked on:
+
+- **🎥 Real-Time Video Conferencing Platform**  
+  Developed a scalable **WebRTC-based video conferencing system** with chat and screen sharing capabilities, integrating **LiveKit** and **FreeSWITCH** for seamless VoIP functionality.
+
+- **🧠 Generative AI Content Platform**  
+  Built a **content generation platform** powered by **ChatGPT** and **OpenAI APIs**, enabling users to generate and optimize high-quality articles, summaries, and social media posts.
+
+- **📲 Cross-Platform Mobile App**  
+  Created a **Flutter-based mobile app** for real-time collaboration, integrating **WebRTC** for live video and audio communication, and **Firebase** for real-time database updates.
+
+- **🔒 Decentralized Trading Dashboard**  
+  Designed a **blockchain-powered dashboard** with **Web3.js** and **Solidity**, enabling crypto traders to monitor liquidity, transactions, and token prices in real-time.
+
+- **📡 VoIP Automation Tool**  
+  Built a VoIP automation tool for **call routing and management** using **FreeSWITCH** and **SIP.js**, reducing operational overhead for enterprise clients.
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=webrtc,flutter,docker,kubernetes,react,solidity,azure,aws,nodejs,python,java" /><br/>
+  <img src="https://skillicons.dev/icons?i=voip,firebase,graphql,redis,mongodb,postgres,typescript" />
+</p>
 
 ---
 
@@ -29,35 +56,9 @@ I'm a **Full Stack Software Engineer** with expertise in **modern web and mobile
 
 ---
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nodejs,python,java,docker,kubernetes,aws,azure,solidity,graphql,postgres,mongodb" />
-</p>
+## 🌐 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+- 🌟 [Portfolio](https://yourportfolio.com)  
+- 📫 Reach me at: your.email@example.com  
 
----
-
-## 🚀 Featured Projects
-Here are some of my recent projects that I'm proud of:
-
-- **[📊 Real-Time Token Monitoring](https://github.com/yourusername/project-link)**  
-  Built a liquidity monitoring system using **Dextools API** and **Web3.js** for real-time token updates.
-
-- **[💰 Price Comparison App](https://github.com/yourusername/project-link)**  
-  A tool for comparing prices across Shopify, Etsy, and Amazon APIs.
-
-- **[🔒 Blockchain dApps](https://github.com/yourusername/project-link)**  
-  Created decentralized applications with Ethereum, **Smart Contracts**, and **Truffle**.
-
-- **[📲 Trading Dashboard](https://github.com/yourusername/project-link)**  
-  Built a comprehensive dashboard integrating Binance, Kucoin, and OKX APIs for crypto traders.
-
----
-
-## 🌐 Connect With Me
-- 📫 Reach out on [LinkedIn](https://linkedin.com/in/yourusername)
-- 🌟 Check out my personal portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 🐦 Follow me on [Twitter](https://twitter.com/yourusername)
-
----
-
-> "Code is like humor. When you have to explain it, it's bad." - *Cory House*
+> "Simplicity is the soul of efficiency." – *Austin Freeman*
