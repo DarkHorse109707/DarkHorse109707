@@ -12,7 +12,7 @@
 - **Generative AI & NLP:**  
   ChatGPT, OpenAI API, LLMs (Large Language Models), Custom AI-based solutions  
 - **Mobile Development:**  
-  Flutter, React Native, Progressive Web Apps (PWAs)  
+  **Flutter (primary stack)**, React Native, Swift, Kotlin, Progressive Web Apps (PWAs)  
 - **Blockchain & Decentralized Tech:**  
   Ethereum, Solidity, Web3.js, Smart Contracts  
 - **Cloud & DevOps:**  
@@ -30,7 +30,7 @@ Here are some of the most exciting projects I've worked on:
   Built a **content generation platform** powered by **ChatGPT** and **OpenAI APIs**, enabling users to generate and optimize high-quality articles, summaries, and social media posts.
 
 - **📲 Cross-Platform Mobile App**  
-  Created a **Flutter-based mobile app** for real-time collaboration, integrating **WebRTC** for live video and audio communication, and **Firebase** for real-time database updates.
+  Created a **Flutter-based mobile app** for real-time collaboration, integrating **WebRTC** for live video and audio communication, and **Firebase** for real-time database updates. Incorporated **React Native**, **Swift**, and **Kotlin** in other projects to deliver custom native solutions.
 
 - **🔒 Decentralized Trading Dashboard**  
   Designed a **blockchain-powered dashboard** with **Web3.js** and **Solidity**, enabling crypto traders to monitor liquidity, transactions, and token prices in real-time.
@@ -42,7 +42,7 @@ Here are some of the most exciting projects I've worked on:
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=webrtc,flutter,docker,kubernetes,react,solidity,azure,aws,nodejs,python,java" /><br/>
+  <img src="https://skillicons.dev/icons?i=webrtc,flutter,react,kotlin,swift,docker,kubernetes,solidity,azure,aws,nodejs,python,java" /><br/>
   <img src="https://skillicons.dev/icons?i=voip,firebase,graphql,redis,mongodb,postgres,typescript" />
 </p>
 
