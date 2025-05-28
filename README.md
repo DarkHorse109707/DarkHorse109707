@@ -1,18 +1,22 @@
 # 👋 Welcome to My GitHub Profile!
 
-🚀 I’m a **Full Stack Software Engineer** with a deep passion for building innovative and scalable solutions. My expertise spans **WebRTC**, **VoIP**, **Generative AI**, and **Mobile Development**, and I thrive on solving real-world problems using cutting-edge technologies. From crafting seamless user experiences to architecting next-gen SaaS platforms, I aim to make technology impactful and accessible.
+🚀 I’m a **Full Stack Software Engineer** with a deep passion for building innovative and scalable solutions. My core expertise lies in **VoIP (Voice over IP)** and **Fingerprint/Biometric Technologies**, where I deliver secure, real-time communication and authentication systems. I also work extensively with **WebRTC**, **Generative AI**, and **Mobile Development**. I thrive on solving real-world problems using cutting-edge technologies and making technology impactful and accessible.
 
 ---
 
 ## 🌟 Highlights of My Expertise
 
-### 💡 **Specialized Skills**
-- **Real-Time Communication Systems**  
-  WebRTC, LiveKit, FreeSWITCH, SIP.js, Video Streaming, Tiledesk  
+### 💡 **Main Stack**
+- **VoIP & Real-Time Communication Systems**  
+  FreeSWITCH, SIP.js, WebRTC, LiveKit, VoIP Automation, Call Routing, Video Streaming, Tiledesk
+- **Fingerprint & Biometric Authentication**  
+  Fingerprint SDKs (Android/iOS), Biometric APIs, Secure Authentication Workflows, Liveness Detection
+
+### 💡 **Additional Skills**
 - **Generative AI & NLP**  
   ChatGPT, OpenAI API, LLMs (Large Language Models), Custom AI-powered solutions  
 - **Mobile Development**  
-  **Flutter (primary stack)**, React Native, Swift, Kotlin, Progressive Web Apps (PWAs)  
+  **Flutter (primary mobile stack)**, React Native, Swift, Kotlin, Progressive Web Apps (PWAs)  
 - **Blockchain & Decentralized Applications**  
   Ethereum, Solidity, Web3.js, Smart Contracts  
 - **Cloud Computing & DevOps**  
@@ -26,40 +30,39 @@
 
 Here’s a glimpse of some exciting projects I’ve had the privilege to work on:
 
+- **📞 Advanced VoIP & Call Routing Platforms**  
+  Designed and developed high-availability **VoIP solutions** using **FreeSWITCH** and **SIP.js**, including automated call routing, call quality monitoring, and enterprise-grade communication features.
+
+- **🔐 Fingerprint & Biometric Authentication Systems**  
+  Built secure, scalable **fingerprint/biometric authentication** modules for mobile and web platforms, integrating liveness detection and advanced anti-spoofing for user verification.
+
 - **🎥 Real-Time Video Conferencing Platform**  
-  Designed and developed a **WebRTC-based video conferencing system** with features like live chat, screen sharing, and recording. Leveraged **LiveKit** for real-time video/audio streams and **FreeSWITCH** for VoIP integrations, ensuring scalability and flawless communication.
+  Developed a **WebRTC-based video conferencing system** with live chat, screen sharing, and recording, leveraging **LiveKit** and **VoIP integrations** for seamless communication.
 
 - **🧠 AI-Driven Content Creation Platform**  
-  Built a **Generative AI content platform** powered by **ChatGPT** and **OpenAI APIs**, empowering users to generate, refine, and optimize high-quality articles, summaries, and social media content using a user-friendly interface.
+  Created a **Generative AI content platform** powered by **ChatGPT** and **OpenAI APIs**, empowering users to generate, refine, and optimize high-quality articles and content.
 
 - **📲 Cross-Platform Mobile Collaboration App**  
-  Developed a **Flutter-based mobile application** for real-time collaboration, integrating **WebRTC** for live audio/video communication and **Firebase** for real-time database updates. Additionally, explored **React Native**, **Swift**, and **Kotlin** in other mobile projects to deliver native and hybrid solutions with custom UI/UX.
-
-- **🔒 Decentralized Cryptocurrency Trading Dashboard**  
-  Created a **blockchain-powered trading dashboard** using **Web3.js** and **Solidity**, enabling crypto traders to monitor liquidity, transactions, and token prices in real time. The dashboard featured seamless wallet integrations and a clean, intuitive UI.
-
-- **📡 VoIP Automation & Call Routing Tool**  
-  Engineered a **VoIP automation tool** for call routing and management using **FreeSWITCH** and **SIP.js**. This solution significantly reduced operational overhead for enterprise clients by automating repetitive tasks and improving call quality.
+  Built a **Flutter-based mobile app** for real-time collaboration, integrating **WebRTC** for live audio/video communication, **Fingerprint authentication** for secure access, and **Firebase** for real-time updates.
 
 ---
 
-## 📱 Mobile Development Expertise
+## 📱 Mobile & Biometric Stack Expertise
 
-As a **Mobile Development Specialist**, I have extensive experience in building **cross-platform and native mobile applications** that are fast, responsive, and user-friendly. My primary stack is **Flutter**, which allows me to create highly efficient apps for both Android and iOS platforms. Additionally, I am proficient in **React Native** for hybrid applications and **Swift** and **Kotlin** for native iOS and Android development, respectively.  
+As a **Mobile Development Specialist**, I focus on **VoIP and Fingerprint/Biometric technologies** as my primary stack. I build secure, scalable, and user-friendly apps with robust communication and authentication capabilities.
 
 ### Key Highlights:
-- **Cross-Platform Development:** Expertise in **Flutter** and **React Native** for creating seamless, high-performance apps.  
-- **Native App Development:** Proficient in **Swift (iOS)** and **Kotlin (Android)** to deliver optimized native experiences.  
-- **Real-Time Features:** Integration of **WebRTC**, **Firebase**, and other real-time technologies for features like video/audio calls, chat, and live updates.  
-- **User-Centric Design:** Focus on crafting intuitive, responsive, and visually appealing user interfaces.  
-- **Performance Optimization:** Skilled in optimizing mobile apps for speed, memory usage, and battery efficiency.  
+- **VoIP/RTC Integration:** Deep expertise in **FreeSWITCH**, **SIP.js**, and **WebRTC** for audio/video calls, call routing, and real-time messaging.
+- **Fingerprint & Biometric Authentication:** Proficient in integrating fingerprint/biometric SDKs on **Android (Kotlin)** and **iOS (Swift)**, ensuring high security and user convenience.
+- **Cross-Platform Mobile Development:** Primary stack in **Flutter**, with additional experience in **React Native**.
+- **User-Centric Design & Security:** Focused on intuitive, secure, and performant mobile experiences.
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift,webrtc,docker,kubernetes,solidity,azure,aws,nodejs,python,java" /><br/>
-  <img src="https://skillicons.dev/icons?i=voip,firebase,graphql,redis,mongodb,postgres,typescript" />
+  <img src="https://skillicons.dev/icons?i=voip,webrtc,flutter,kotlin,swift,fingerprint,docker,kubernetes,azure,aws,nodejs,python,java" /><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,graphql,redis,mongodb,postgres,typescript,solidity" />
 </p>
 
 ---
