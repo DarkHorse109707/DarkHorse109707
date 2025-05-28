@@ -65,12 +65,3 @@ As a **Mobile Development Specialist**, I focus on **VoIP and Fingerprint/Biomet
   <img src="https://skillicons.dev/icons?i=firebase,graphql,redis,mongodb,postgres,typescript,solidity" />
 </p>
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkHorse&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkHorse&theme=radical" alt="GitHub Streak" />
-</p>
-
----
