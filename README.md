@@ -69,8 +69,8 @@ As a **Mobile Development Specialist**, I focus on **VoIP and Fingerprint/Biomet
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkHorse&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkHorse&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
