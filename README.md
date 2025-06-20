@@ -1,67 +1,76 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub!
 
-🚀 I’m a **Full Stack Software Engineer** with a deep passion for building innovative and scalable solutions. My core expertise lies in **VoIP (Voice over IP)** and **Fingerprint/Biometric Technologies**, where I deliver secure, real-time communication and authentication systems. I also work extensively with **WebRTC**, **Generative AI**, and **Mobile Development**. I thrive on solving real-world problems using cutting-edge technologies and making technology impactful and accessible.
+🚀 **Senior 3D Web & AR/VR Engineer** | **Three.js • React Three Fiber • WebGL • XR**
 
----
-
-## 🌟 Highlights of My Expertise
-
-### 💡 **Main Stack**
-- **VoIP & Real-Time Communication Systems**  
-  FreeSWITCH, SIP.js, WebRTC, LiveKit, VoIP Automation, Call Routing, Video Streaming, Tiledesk
-- **Fingerprint & Biometric Authentication**  
-  Fingerprint SDKs (Android/iOS), Biometric APIs, Secure Authentication Workflows, Liveness Detection
-
-### 💡 **Additional Skills**
-- **Generative AI & NLP**  
-  ChatGPT, OpenAI API, LLMs (Large Language Models), Custom AI-powered solutions  
-- **Mobile Development**  
-  **Flutter (primary mobile stack)**, React Native, Swift, Kotlin, Progressive Web Apps (PWAs)  
-- **Blockchain & Decentralized Applications**  
-  Ethereum, Solidity, Web3.js, Smart Contracts  
-- **Cloud Computing & DevOps**  
-  Azure DevOps, AWS, CI/CD Pipelines, Kubernetes, Docker  
-- **Backend Development**  
-  Node.js, Python, GraphQL, PostgreSQL, MongoDB, Redis  
+I'm a Senior Software Engineer obsessed with interactive 3D, AR/VR, and spatial web. My specialty is crafting stunning, performant, and immersive web experiences using **Three.js**, **React Three Fiber (R3F)**, and the latest in WebXR/AR technologies. I love making complex visualizations accessible, and bringing creative visions to life—on the browser, on mobile, and in the real world.
 
 ---
 
-## 🔥 Featured Projects
+## 🌟 My Core Skill Set
 
-Here’s a glimpse of some exciting projects I’ve had the privilege to work on:
+### 🎨 3D Graphics & Visualization
+- **Three.js** — Custom shaders, scene management, complex animations, geometry & lighting
+- **React Three Fiber (R3F)** — Declarative 3D with React, hooks, Drei, and ecosystem tools
+- **WebGL** — Low-level graphics, GLSL shaders, performance optimization
 
-- **📞 Advanced VoIP & Call Routing Platforms**  
-  Designed and developed high-availability **VoIP solutions** using **FreeSWITCH** and **SIP.js**, including automated call routing, call quality monitoring, and enterprise-grade communication features.
+### 🕶️ AR/VR & Spatial Web
+- **WebXR** — Building immersive AR/VR for browser and headsets (Meta Quest, Hololens, etc.)
+- **AR.js / 8th Wall / Zappar** — Marker & markerless web AR
+- **Unity XR** (basic prototyping for cross-platform integration)
 
-- **🔐 Fingerprint & Biometric Authentication Systems**  
-  Built secure, scalable **fingerprint/biometric authentication** modules for mobile and web platforms, integrating liveness detection and advanced anti-spoofing for user verification.
+### ⚡ Interactive & Creative Coding
+- **Procedural Generation** — Terrain, objects, environments
+- **Physics & Animation** — use-cannon, react-spring, GSAP, custom rigs
+- **3D UI/UX** — Intuitive controls, VR/AR interaction patterns
 
-- **🎥 Real-Time Video Conferencing Platform**  
-  Developed a **WebRTC-based video conferencing system** with live chat, screen sharing, and recording, leveraging **LiveKit** and **VoIP integrations** for seamless communication.
+### 🌐 Frontend & Integration
+- **React** (advanced), **TypeScript**, **Redux/Zustand/Jotai**
+- **Next.js** — SSR/SSG for 3D sites & interactive portfolios
+- **API/Backend** — Node.js, REST, Firebase, GraphQL (for dynamic 3D/AR content)
 
-- **🧠 AI-Driven Content Creation Platform**  
-  Created a **Generative AI content platform** powered by **ChatGPT** and **OpenAI APIs**, empowering users to generate, refine, and optimize high-quality articles and content.
-
-- **📲 Cross-Platform Mobile Collaboration App**  
-  Built a **Flutter-based mobile app** for real-time collaboration, integrating **WebRTC** for live audio/video communication, **Fingerprint authentication** for secure access, and **Firebase** for real-time updates.
-
----
-
-## 📱 Mobile & Biometric Stack Expertise
-
-As a **Mobile Development Specialist**, I focus on **VoIP and Fingerprint/Biometric technologies** as my primary stack. I build secure, scalable, and user-friendly apps with robust communication and authentication capabilities.
-
-### Key Highlights:
-- **VoIP/RTC Integration:** Deep expertise in **FreeSWITCH**, **SIP.js**, and **WebRTC** for audio/video calls, call routing, and real-time messaging.
-- **Fingerprint & Biometric Authentication:** Proficient in integrating fingerprint/biometric SDKs on **Android (Kotlin)** and **iOS (Swift)**, ensuring high security and user convenience.
-- **Cross-Platform Mobile Development:** Primary stack in **Flutter**, with additional experience in **React Native**.
-- **User-Centric Design & Security:** Focused on intuitive, secure, and performant mobile experiences.
+### 🛠️ DevOps & Tooling
+- **Vite, Webpack** — Modern build tools for graphics workflows
+- **CI/CD** — Automated deploys for interactive web apps
+- **Cloud Functions, CDN** — Serving assets, optimizing 3D pipelines
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
+
+- **🌌 3D Product Configurators & Showrooms**  
+  Interactive e-commerce and marketing tools with **Three.js** & **R3F** (live customization, AR previews, multi-device support)
+
+- **🏞️ Immersive Web AR/VR Experiences**  
+  Browser-based VR worlds, AR product demos, and virtual tours with **WebXR**, **React Three Fiber**, and mobile-first design
+
+- **🎨 Generative Art & Data Visualizations**  
+  Procedural landscapes, real-time data-driven 3D dashboards, and NFT art using custom shaders and Three.js geometry
+
+- **🕹️ Game Prototypes & Physics Simulations**  
+  VR mini-games, educational simulations, multiplayer 3D apps (socket.io, cannon.js)
+
+- **🛠️ Open Source Contributions**  
+  Plugins and utilities for **R3F**, Three.js snippets, and community learning resources
+
+---
+
+## 🧑‍💻 Tech Stack At A Glance
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=voip,webrtc,flutter,kotlin,swift,fingerprint,docker,kubernetes,azure,aws,nodejs,python,java" /><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,graphql,redis,mongodb,postgres,typescript,solidity" />
+  <img src="https://skillicons.dev/icons?i=threejs,react,typescript,webgl,unity,redux,nextjs,nodejs,webpack,vite,firebase" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=ar,vr,graphql,python,aws,azure,blender" />
 </p>
 
+---
+
+## 💡 What I Bring
+
+- **Expertise in 3D, AR/VR, and interactive storytelling for the web**
+- **Performance-focused engineering:** optimizing for mobile, VR headsets, and desktop
+- **Cross-functional:** bridging creative, design, and engineering teams
+- **Mentorship:** Open source contributor, technical writer, and 3D community advocate
+
+---
+
+*Let’s build the future of the web—one immersive experience at a time!*
